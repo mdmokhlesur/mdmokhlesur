@@ -9,7 +9,6 @@
 ## 👨‍💻 About Me
 
 - 🔭 Working as a **Software Developer**
-- 🌱 Currently learning **.NET**
 - 🧩 Currently learning **System Design** at **[poridhi.io](https://poridhi.io)**
 - 👯 Looking to collaborate on **GitHub**
 - 💬 Ask me about **JavaScript** and **Next.js**
