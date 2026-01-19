@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Mokhlesur Rahman
 
-💻 **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.**  
-🚀 Passionate about building dynamic, scalable, and user-friendly web applications  
+💻 **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.** 🚀 Passionate about building dynamic, scalable, and user-friendly web applications  
 🧠 Strong believer in clean code and great user experience  
 
 ---
@@ -26,6 +25,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Amazon S3](https://img.shields.io/badge/S3_Bucket-569A31?style=flat&logo=amazons3)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
