@@ -46,9 +46,9 @@
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=mokhlesurrahman&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-![Mokhlesur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokhlesurrahman&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhlesurrahman&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=mdmokhlesur&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+![Mokhlesur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmokhlesur&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmokhlesur&layout=compact&theme=tokyonight)
 
 ---
 
