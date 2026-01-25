@@ -10,7 +10,7 @@
 - 🔭 Working as a **Software Developer**
 - 🧩 Currently learning **System Design** at **[poridhi.io](https://poridhi.io)**
 - 👯 Looking to collaborate on **GitHub**
-- 💬 Ask me about **JavaScript** and **Next.js**
+- 💬 Ask me about **System Design**
 - 📫 Reach me at: **mokhlesurinfo5@gmail.com**
 
 ---
