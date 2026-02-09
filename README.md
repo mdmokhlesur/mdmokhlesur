@@ -8,6 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Working as a **Software Developer**
+- Learning something new every day and pushing it to GitHub
 - 🧩 Currently learning **System Design** at **[poridhi.io](https://poridhi.io)**
 - 👯 Looking to collaborate on **GitHub**
 - 💬 Ask me about **System Design**
