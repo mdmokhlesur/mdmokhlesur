@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Tech Stack
 
 ### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -57,23 +57,9 @@
 
 ## 📊 GitHub Statistics.
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdmokhlesur&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmokhlesur&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmokhlesur&theme=tokyonight"/>
-</p>
-
----
-## ⚡ Fun Fact
-
-💡 I believe **great software = clean architecture + great user experience**
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=mdmokhlesur&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+![Mokhlesur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmokhlesur&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmokhlesur&layout=compact&theme=tokyonight)
 
 ---
 
