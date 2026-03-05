@@ -62,7 +62,7 @@ Passionate about building scalable, high-performance, and user-friendly web appl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -70,6 +70,10 @@ Passionate about building scalable, high-performance, and user-friendly web appl
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmokhlesur&layout=compact&theme=tokyonight" height="180"/>
 
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mdmokhlesur&theme=tokyonight"/>
 </p>
 
 ---
