@@ -72,10 +72,6 @@ Passionate about building scalable, high-performance, and user-friendly web appl
 
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mdmokhlesur&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
