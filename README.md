@@ -7,12 +7,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Working as a **Software Developer**
-- Learning something new every day and pushing it to GitHub.
-- 🧩 Currently learning **System Design** at **[poridhi.io](https://poridhi.io)**
-- 👯 Looking to collaborate on **GitHub**
-- 💬 Ask me about **System Design**
-- 📫 Reach me at: **mokhlesurinfo5@gmail.com**
+- 💼 Former **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.**
+- 🔭 Currently building modern **Web Applications**
+- 🧠 Learning **System Design** at **https://poridhi.io**
+- 🌱 Always learning new technologies and pushing projects to **GitHub**
+- 🤝 Open to **collaboration on GitHub projects**
+- 💬 Ask me about **System Design, Backend Architecture, or Next.js**
+- 📫 Reach me at **mokhlesurinfo5@gmail.com**
 
 ---
 
