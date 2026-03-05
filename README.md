@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics.
 
 <p align="center">
 
@@ -65,13 +65,15 @@
 
 </p>
 
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmokhlesur&theme=tokyonight"/>
 </p>
+
+---
+## ⚡ Fun Fact
+
+💡 I believe **great software = clean architecture + great user experience**
 
 ---
 
