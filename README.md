@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mokhlesur Rahman</h1>
-<h3 align="center">🚀 Full Stack Software Developer | Clean Code Enthusiast</h3>
+<h1">Hi 👋, I'm Mokhlesur Rahman</h1>
+<h3>🚀 Full Stack Software Developer | Clean Code Enthusiast</h3>
 
-<p align="center">
+<p>
 Passionate about building scalable, high-performance, and user-friendly web applications.
 </p>
 
