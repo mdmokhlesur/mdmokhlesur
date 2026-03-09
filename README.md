@@ -2,7 +2,7 @@
 
 💻 Former **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.** 
 🚀 Passionate about building dynamic, scalable, and user-friendly web applications.  
-🧠 Strong believer in clean code and great user experience.  
+🧠 Strong believer in **clean code** and great **user experience**.  
 
 ---
 
