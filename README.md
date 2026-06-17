@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Software Developer** at **Elevate IT.**
+- 💼 Software Developer at **Elevate IT.**
 - 💼 Former **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.**
 - 🔭 Currently building modern **Web Applications**
 - 🧠 Learning **System Design** at **https://poridhi.io**
