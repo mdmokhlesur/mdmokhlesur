@@ -1,6 +1,6 @@
 # Hello there 👋, It's Mokhlesur Rahman.
 
-💻 Former **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.** 
+💻 **Software Developer** at **Elevatge IT.** 
 🚀 Passionate about building dynamic, scalable, and user-friendly web applications.  
 🧠 Strong believer in **clean code** and great **user experience**.  
 
