@@ -11,7 +11,7 @@
 - 💼 Software Developer at **Elevate IT.**
 - 💼 Former **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.**
 - 🔭 Currently building modern **Web Applications**
-- 🧠 Learning **System Design** at **https://poridhi.io**
+- 🧠 Learning **System Design** / **DSA** at **https://poridhi.io**
 - 🌱 Always learning new technologies and pushing projects to **GitHub**
 - 🤝 Open to **collaboration on GitHub projects**
 - 💬 Ask me about **System Design, Backend Architecture, or Next.js**
