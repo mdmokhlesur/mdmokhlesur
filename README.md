@@ -1,6 +1,6 @@
 # Hello there 👋, It's Mokhlesur Rahman.
 
-💻 **Software Developer** at **Elevatge IT.** 
+💻 **Software Developer** at **CODER71** 
 🚀 Passionate about building dynamic, scalable, and user-friendly web applications.  
 🧠 Strong believer in **clean code** and great **user experience**.  
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **Elevate IT.**
+- 💼 Software Developer at **CODER71**
 - 💼 Former **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.**
 - 🔭 Currently building modern **Web Applications**
 - 🧠 Learning **System Design** / **DSA** at **https://poridhi.io**
